@@ -32,9 +32,9 @@ https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiY2R3RURtaEszNXlKTWt
 
 (dm51aEEgaHl5bHBaIGhtc0ggaHRwUyApbGpod3ooIHZvakwgc2xhdk8gdm51aEEgKWxqaHd6KCBscnBUIHloanpWIHZsdHZZIGF2eWFldk0gKWxqaHd6KCB2bnVoQSB5bGl0bGN2VSB2b2pMIHZsdHZZIHZvakwgYXZ5YWV2TSBhdnlhZXZNIGhwa3VQIGhhc2xLIClsamh3eiggbGxydWhGIHZsdHZZIHZvakwgeXZhanBDIClsamh3eiggaHl5bHBaIGhwa3VQIClsamh3eiggdm9qTCBscnBUIGhtc0ggbXN2TiApbGpod3ooIGh5eWxwWiBocGt1UCBzbGF2TyB2bnVoQQ==)
 
-THE COUNTDOWN WILL BEGIN WHEN YOU ARE READY...
+THE TRUE COUNTDOWN WILL BEGIN WHEN YOU ARE READY...
 
-THE TIMER HAS STARTED...
+THE TIMER IS NOT ENDLESS...
 
 -----
 
@@ -49,6 +49,7 @@ LEE: S (NOT FOUND) The Hangman forgives you...
 DANIEL: O
 JED: H (NOT FOUND) An arm appears...
 DEARMASH: L (NOT FOUND) Another arm begins to grow...
+JOHN: R
 
   +---+
   |   |
@@ -60,9 +61,15 @@ DEARMASH: L (NOT FOUND) Another arm begins to grow...
 
 _
 
-E T H || _ _ I _ N E N O || _
+E T H || _ R I _ N E N O || _
 
-Hidden characters found.
+Don't run out of souls for the grinder...
+
+Those hidden characters only appeared once they were noticed...
+
+One of those hidden characters is unimportant, and was actually one of your very first clues...
+
+What seems like a lifetime ago.
 
 There is a hidden time limit, don't wait too long.
 
@@ -76,53 +83,53 @@ Don't let hubris be your downfall.
 
 Remember that trickery begets trickery.
 
-You won't know the word until the letters are in place.
+You won't know the word until the Letters are in place.
 
 Once all letters are in place, the next phase begins.
 
 All letters MUST be decided on as a team and MUST be clearly spoken aloud after a declaration.
 
-Each letter must be agreed on by AT LEAST 10 members of the hunt.
+Each letter must be agreed On by AT LEAST 10 members of the hunt.
 
 No team member can speak twice.
 
 > THE HANGMAN will make his judgement at unknown times. <
 
-You MUST declare yourself a participant in the game, state your name, and you must speak aloud the chosen letter via the right path.
+You MUST declare yourself a participant in the game, State your name, and you must speak aloud the chosen letter via the right path.
 
 You already have the path.
 
 Not following the rules WILL result in punishment.
 
-All letters must be entered to progress.
+All letters must be Entered to progress.
 
 The Hangman bides his time, waiting for mistakes to be made.
 
 He shuffles the Tarot Deck given to him by The Faceless Man.
 
-It is unlike any he has seen before.
+It is unlike any he has seen befoRe.
 
 THE ERRATA ARCANA.
 
-In them he sees the story of The Faceless Man, and how he came to be.
+> In them he sees the story of The Faceless Man, and how he came to be. <
 
 A card is placed in the dirt under the gallows.
 
 TWO CHANCES REMAIN...
 
-You will get the chance to earn more when needed.
+You have the chance to earn one back.
 
-Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock...
+Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock...
 
              |
             (4)
           _ )0( _
         /`_) 4 (_`\
-      .' (  { }  ) '.
-    _/ /` '-'='-' `\ \_
-   [_.'   _,...,_   '._]
-    |   .:"`````":.   |
-    |__//_________\\__|
+      .' (  {.}  ) '.
+    _/ /` '-'X'-' `\ \_
+   [_.'   _,.X.,_   '._]
+    |   .:"``X``":.   |
+    |__//____X____\\__|
      | .-----------. |
      | |  .-"""-.  | |
      | | /    /  \ | |
@@ -160,3 +167,34 @@ Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock...
  The game will end.
 
  ___
+
+ .------..------..------.                                        
+|T.--. ||H.--. ||E.--. |                                        
+| :/\: || :/\: || (\/) |                                        
+| (__) || (__) || :\/: |                                        
+| '--'T|| '--'H|| '--'E|                                        
+`------'`------'`------'                                        
+.------..------..------..------..------..------.                
+|E.--. ||R.--. ||R.--. ||A.--. ||T.--. ||A.--. |                
+| (\/) || :(): || :(): || (\/) || :/\: || (\/) |                
+| :\/: || ()() || ()() || :\/: || (__) || :\/: |                
+| '--'E|| '--'R|| '--'R|| '--'A|| '--'T|| '--'A|                
+`------'`------'`------'`------'`------'`------'                
+.------..------..------..------..------..------.                
+|A.--. ||R.--. ||C.--. ||A.--. ||N.--. ||A.--. |                
+| (\/) || :(): || :/\: || (\/) || :(): || (\/) |                
+| :\/: || ()() || :\/: || :\/: || ()() || :\/: |                
+| '--'A|| '--'R|| '--'C|| '--'A|| '--'N|| '--'A|                
+`------'`------'`------'`------'`------'`------'                
+.------..------..------..------..------..------..------..------.
+|A.--. ||W.--. ||A.--. ||K.--. ||E.--. ||N.--. ||S.--. ||..--. |
+| (\/) || :/\: || (\/) || :/\: || (\/) || :(): || :/\: || :(): |
+| :\/: || :\/: || :\/: || :\/: || :\/: || ()() || :\/: || ()() |
+| '--'A|| '--'W|| '--'A|| '--'K|| '--'E|| '--'N|| '--'S|| '--'.|
+`------'`------'`------'`------'`------'`------'`------'`------'
+
+A deck of *23* cards that tell the life of The Faceless Man...
+
+The Hangman has never seen these cards. Nor have you.
+
+https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiaDE0R01YS1Z6Q3hsTWZqNEpaypjrlyfilnlazaypjrlyfncFhsSUt1K2YzUHpwbDlDQytiU29EZWxPMThWNDNuQktkRTVUN3lKY290SDJsS3ZpeUdZS2Z0YUaypjrlyfilnlazaypjrlyfJhbTRyMXZyRkxmQ1NrUm1yVmdJb3dqajdMSUhBZ1Y3YWJMd2hUVk5LN3pzcDFxS3ZjPSIsInMiOiJFaaypjrlyfilnlazaypjrlyfXlsSWlOa29RUnBaM2U5UjV2NzdBPT0iLCJpIjoiQ01OdjV6dXFmUFdOckVhSyJ9
