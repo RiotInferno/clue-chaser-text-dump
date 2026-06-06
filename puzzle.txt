@@ -50,18 +50,19 @@ CLEMENT: D (NOT FOUND) The body is beginning to form...
 LEE: S (NOT FOUND) The Hangman forgives you...
 DANIEL: O
 JED: H (NOT FOUND) An arm appears...
+DEARMASH: L (NOT FOUND) Another arm begins to grow...
 
   +---+
   |   |
   O   |
-  |\  |
+ /|\  |
       |
       |
 =========
 
------
-
-|| _ _ I _ N E N O ||
+_
+---
+|| _ _ I _ N E N O || _
 
 There is a hidden time limit, don't wait too long.
 
@@ -107,9 +108,11 @@ In them he sees the story of The Faceless Man, and how he came to be.
 
 A card is placed in the dirt under the gallows.
 
-THREE CHANCES REMAIN...
+TWO CHANCES REMAIN...
 
-Tick... Tock... Tick... Tock... Tick... Tock...
+You will get the chance to earn more when needed.
+
+Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock...
 
              |
             (4)
