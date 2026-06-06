@@ -61,8 +61,10 @@ DEARMASH: L (NOT FOUND) Another arm begins to grow...
 =========
 
 _
----
-|| _ _ I _ N E N O || _
+
+E T H || _ _ I _ N E N O || _
+
+Hidden characters found.
 
 There is a hidden time limit, don't wait too long.
 
