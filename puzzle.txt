@@ -53,6 +53,7 @@ JED: H (NOT FOUND) An arm appears...
 DEARMASH: L (NOT FOUND) The Hangman forgives you...
 JOHN: R
 SEAN: G (NOT FOUND) Another arm appears...
+THE FACELESS MAN: X
 
   +---+
   |   |
@@ -62,7 +63,7 @@ SEAN: G (NOT FOUND) Another arm appears...
       |
 =========
 
-_
+X
 
 E T H || _ R I _ N E N O || _
 
