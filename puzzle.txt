@@ -55,13 +55,13 @@ JOHN: R
 SEAN: G (NOT FOUND) Another arm appears...
 THE FACELESS MAN: X
 THE HANGMAN: .
-MATTHEW: M (NOT FOUND) A leg begins to form...
+MATTHEW: M (NOT FOUND) The Hangman forgives you...
 
   +---+
   |   |
   O   |
  /|\  |
-   \  |
+      |
       |
 =========
 
@@ -115,9 +115,7 @@ THE ERRATA ARCANA.
 
 A card is placed in the dirt under the gallows.
 
-ONLY ONE CHANCE REMAINS...
-
-You have the chance to earn one back, using this phrase as a password: 'X' XXXXX XXX XXXX
+TWO CHANCES REMAINS...
 
 Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock...
 
