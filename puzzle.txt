@@ -54,6 +54,7 @@ DEARMASH: L (NOT FOUND) The Hangman forgives you...
 JOHN: R
 SEAN: G (NOT FOUND) Another arm appears...
 THE FACELESS MAN: X
+THE HANGMAN: .
 
   +---+
   |   |
@@ -65,7 +66,7 @@ THE FACELESS MAN: X
 
 X
 
-E T H || _ R I _ N E N O || _
+E T H || _ R I _ N E N O || .
 
 Don't run out of souls for the grinder...
 
@@ -121,7 +122,7 @@ A card is placed in the dirt under the gallows.
 
 TWO CHANCES REMAIN...
 
-You have the chance to earn one back.
+You have the chance to earn one back: X XXXXX XXX XXXX
 
 Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock...
 
