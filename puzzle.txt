@@ -55,12 +55,13 @@ JOHN: R
 SEAN: G (NOT FOUND) Another arm appears...
 THE FACELESS MAN: X
 THE HANGMAN: .
+MATTHEW: M (NOT FOUND) A leg begins to form...
 
   +---+
   |   |
   O   |
  /|\  |
-      |
+   \  |
       |
 =========
 
@@ -70,11 +71,7 @@ E T H || _ R I _ N E N O || .
 
 Don't run out of souls for the grinder...
 
-Those hidden characters only appeared once they were noticed...
-
-One of those hidden characters is unimportant, and was actually one of your very first clues...
-
-What seems like a lifetime ago.
+It is possible to work out the word and submit the correct letters now.
 
 There is a hidden time limit, don't wait too long.
 
@@ -87,8 +84,6 @@ But we want you to win.
 Don't let hubris be your downfall.
 
 Remember that trickery begets trickery.
-
-You won't know the word until the Letters are in place.
 
 Once all letters are in place, the next phase begins.
 
@@ -112,7 +107,7 @@ The Hangman bides his time, waiting for mistakes to be made.
 
 He shuffles the Tarot Deck given to him by The Faceless Man.
 
-It is unlike any he has seen befoRe.
+It is >unlike< any he has seen befoRe.
 
 THE ERRATA ARCANA.
 
@@ -120,18 +115,18 @@ THE ERRATA ARCANA.
 
 A card is placed in the dirt under the gallows.
 
-TWO CHANCES REMAIN...
+ONLY ONE CHANCE REMAINS...
 
-You have the chance to earn one back: X XXXXX XXX XXXX
+You have the chance to earn one back, using this phrase as a password: 'X' XXXXX XXX XXXX
 
-Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock...
+Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock...
 
              /
             (4)
           _ )0( _
         /`_) 4 (_`\
       .' (  {.}  ) '.
-    _/ /` '-'X'-' `\ \_
+    _/ /` '-'#'-' `\ \_
    [_.'   _,.X.,_   '._]
     |   .:"``X``":.   |
     |__//____X____\\__|
@@ -200,8 +195,8 @@ Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... 
 
 A deck of *23* cards that tell the life of The Faceless Man...
 
-The Hangman has never seen these cards. Nor have you.
+> The Hangman has never seen these cards. Nor have you. <
 
 https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiaDE0R01YS1Z6Q3hsTWZqNEpaypjrlyfilnlazaypjrlyfncFhsSUt1K2YzUHpwbDlDQytiU29EZWxPMThWNDNuQktkRTVUN3lKY290SDJsS3ZpeUdZS2Z0YUaypjrlyfilnlazaypjrlyfJhbTRyMXZyRkxmQ1NrUm1yVmdJb3dqajdMSUhBZ1Y3YWJMd2hUVk5LN3pzcDFxS3ZjPSIsInMiOiJFaaypjrlyfilnlazaypjrlyfXlsSWlOa29RUnBaM2U5UjV2NzdBPT0iLCJpIjoiQ01OdjV6dXFmUFdOckVhSyJ9
 
-$|_/-\$#|=!$#|)[]'|'#'|'/\/\|_
+$|_/-\$#|=!$#|)[]'|'#'|'/\/\|_ !
