@@ -48,13 +48,13 @@ CLEMENT: D (NOT FOUND) The body is beginning to form...
 LEE: S (NOT FOUND) The Hangman forgives you...
 DANIEL: O
 JED: H (NOT FOUND) An arm appears...
-DEARMASH: L (NOT FOUND) Another arm begins to grow...
+DEARMASH: L (NOT FOUND) The Hangman forgives you...
 JOHN: R
 
   +---+
   |   |
   O   |
- /|\  |
+  |\  |
       |
       |
 =========
@@ -115,7 +115,7 @@ THE ERRATA ARCANA.
 
 A card is placed in the dirt under the gallows.
 
-TWO CHANCES REMAIN...
+THREE CHANCES REMAIN...
 
 You have the chance to earn one back.
 
@@ -187,10 +187,10 @@ Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock...
 | '--'A|| '--'R|| '--'C|| '--'A|| '--'N|| '--'A|                
 `------'`------'`------'`------'`------'`------'                
 .------..------..------..------..------..------..------..------.
-|A.--. ||W.--. ||A.--. ||K.--. ||E.--. ||N.--. ||S.--. ||..--. |
-| (\/) || :/\: || (\/) || :/\: || (\/) || :(): || :/\: || :(): |
-| :\/: || :\/: || :\/: || :\/: || :\/: || ()() || :\/: || ()() |
-| '--'A|| '--'W|| '--'A|| '--'K|| '--'E|| '--'N|| '--'S|| '--'.|
+|A.--. ||W.--. ||A.--. ||K.--. ||E.--. ||N.--. ||S.--. ||   T  |
+| (\/) || :/\: || (\/) || :/\: || (\/) || :(): || :/\: ||   F  |
+| :\/: || :\/: || :\/: || :\/: || :\/: || ()() || :\/: ||   M  |
+| '--'A|| '--'W|| '--'A|| '--'K|| '--'E|| '--'N|| '--'S||      |
 `------'`------'`------'`------'`------'`------'`------'`------'
 
 A deck of *23* cards that tell the life of The Faceless Man...
