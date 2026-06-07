@@ -9,7 +9,7 @@ https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoia29odkxkZTRlemJDT2N
 ⢀⣰⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⢸⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀X⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⢻⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠸⢿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠈⠻⣿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣾⣿⣿⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -30,7 +30,7 @@ https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiY2R3RURtaEszNXlKTWt
    |   |  /Y
   ~~~~~~~~~~~  
 
-(dm51aEEgaHl5bHBaIGhtc0ggaHRwUyApbGpod3ooIHZvakwgc2xhdk8gdm51aEEgKWxqaHd6KCBscnBUIHloanpWIHZsdHZZIGF2eWFldk0gKWxqaHd6KCB2bnVoQSB5bGl0bGN2VSB2b2pMIHZsdHZZIHZvakwgYXZ5YWV2TSBhdnlhZXZNIGhwa3VQIGhhc2xLIClsamh3eiggbGxydWhGIHZsdHZZIHZvakwgeXZhanBDIClsamh3eiggaHl5bHBaIGhwa3VQIClsamh3eiggdm9qTCBscnBUIGhtc0ggbXN2TiApbGpod3ooIGh5eWxwWiBocGt1UCBzbGF2TyB2bnVoQQ==)
+(dm51aEEgaHl5bHBaIGhtc0ggaHRwUyAphbGpod3ooIHZvakwgc2xhdk8gdm51aEEgKWxqaHd6KCBuscnBUIHloanpWIHZsdHZZIGF2eWFldk0gKWxqaHd6KCB2bnVoQSB5bGl0bbGN2VSB2b2pMIHZsdHZZIHZvakwgYXZ5YWV2TSBhdnlhZXZNIGhwar3VQIGhhc2xLIClsamh3eiggbGxydWhGIHZsdHZZIHZvakwgeXiZhanBDIClsamh3eiggaHl5bHBaIGhwa3VQIClsamh3eiggdm9qTCBscnBUIGhtc0ggbXN2sTiApbGpod3ooIGh5eWxwWiBocGt1UCBzbGF2TyB2bnVoQQ==)
 
 THE TRUE COUNTDOWN WILL BEGIN WHEN YOU ARE READY...
 
@@ -50,11 +50,12 @@ DANIEL: O
 JED: H (NOT FOUND) An arm appears...
 DEARMASH: L (NOT FOUND) The Hangman forgives you...
 JOHN: R
+SEAN: G (NOT FOUND) Another arm appears...
 
   +---+
   |   |
   O   |
-  |\  |
+ /|\  |
       |
       |
 =========
@@ -115,13 +116,13 @@ THE ERRATA ARCANA.
 
 A card is placed in the dirt under the gallows.
 
-THREE CHANCES REMAIN...
+TWO CHANCES REMAIN...
 
 You have the chance to earn one back.
 
 Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock...
 
-             |
+             /
             (4)
           _ )0( _
         /`_) 4 (_`\
@@ -168,7 +169,7 @@ Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock...
 
  ___
 
- .------..------..------.                                        
+.------..------..------.                                        
 |T.--. ||H.--. ||E.--. |                                        
 | :/\: || :/\: || (\/) |                                        
 | (__) || (__) || :\/: |                                        
