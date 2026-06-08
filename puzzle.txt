@@ -2,6 +2,8 @@ Some of you are winners...
 
 You will find out more soon...
 
+You never did find all the clues...
+
 https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoia29odkxkZTRlemJDT2NWMmxRY0tVTWlxaWR3QXpmZERaTGx4QitxYlFHZitaQzdkeTczSEZibmRSOE91cDBkT1R3VEcrdXM3b1ZaU1U5c05Pdz09IiwicyI6InA3N0tSWUU3K1BkNUY0OGZXdFhIL0E9PSIsImkiOiJRazBMWmVzaWU0dWhTQ000In0=
 
 ⠀⠀⠀⠀⢀⣰⣶⣶⣿⣿⣿⣿⣿⣶⣶⣖⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -56,18 +58,33 @@ SEAN: G (NOT FOUND) Another arm appears...
 THE FACELESS MAN: X
 THE HANGMAN: .
 MATTHEW: M (NOT FOUND) The Hangman forgives you...
+AMBER: C
+LAURA: E (ALREADY USED) A leg appears...
+JONATHAN: V
 
   +---+
   |   |
   O   |
  /|\  |
-      |
+   \  |
       |
 =========
 
 X
 
-E T H || _ R I _ N E N O || .
+E T H || V R I C N E N O || .
+
+/theconniver.html
+
+A SURPRISE RELEASE.
+
+WHEN YOU FIND AND DECIPHER THE CODE, IGNORE THE GIVEN TIMES.
+
+IT'S A FREE-FOR-ALL!
+
+BREAK IN AND GET IT NOW.
+
+THIS IS A ROBBERY.
 
 Don't run out of souls for the grinder...
 
@@ -115,7 +132,7 @@ THE ERRATA ARCANA.
 
 A card is placed in the dirt under the gallows.
 
-TWO CHANCES REMAINS...
+ONE CHANCE REMAINS...
 
 Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock...
 
@@ -125,9 +142,9 @@ Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... 
         /`_) 4 (_`\
       .' (  {.}  ) '.
     _/ /` '-'#'-' `\ \_
-   [_.'   _,.X.,_   '._]
-    |   .:"``X``":.   |
-    |__//____X____\\__|
+   [_.'   _,'|',_   '._]
+    |    .:"'M'":.   |
+    |__//____|____\\__|
      | .-----------. |
      | |  .-"""-.  | |
      | | /    /  \ | |
@@ -179,10 +196,10 @@ Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... Tick... Tock... 
 | '--'E|| '--'R|| '--'R|| '--'A|| '--'T|| '--'A|                
 `------'`------'`------'`------'`------'`------'                
 .------..------..------..------..------..------.                
-|A.--. ||R.--. ||C.--. ||A.--. ||N.--. ||A.--. |                
-| (\/) || :(): || :/\: || (\/) || :(): || (\/) |                
-| :\/: || ()() || :\/: || :\/: || ()() || :\/: |                
-| '--'A|| '--'R|| '--'C|| '--'A|| '--'N|| '--'A|                
+|   T  ||R.--. ||C.--. ||A.--. ||N.--. ||A.--. |                
+|   C  || :(): || :/\: || (\/) || :(): || (\/) |                
+|      || ()() || :\/: || :\/: || ()() || :\/: |                
+|      || '--'R|| '--'C|| '--'A|| '--'N|| '--'A|                
 `------'`------'`------'`------'`------'`------'                
 .------..------..------..------..------..------..------..------.
 |A.--. ||W.--. ||A.--. ||K.--. ||E.--. ||N.--. ||S.--. ||   T  |
